@@ -26,10 +26,6 @@ namespace ProjetoRendimento
 }
 
 
-using System;
-
-namespace ProjetoRendimento
-{
     public class Investimento
     {
         public double ValorPresente { get; set; }
@@ -57,4 +53,3 @@ namespace ProjetoRendimento
             Console.WriteLine("---------------------------------------------------------");
         }
     }
-}
